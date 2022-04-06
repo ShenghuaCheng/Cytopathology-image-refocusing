@@ -1,0 +1,8 @@
+__pycache__/
+__init__.py
+nohup.out
+*.xml
+*.pyc
+*.h5
+*.pyc
+.idea
