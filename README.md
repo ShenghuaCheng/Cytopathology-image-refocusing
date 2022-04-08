@@ -18,7 +18,7 @@ cf_clear_stage1.py (RFN_s1)\
 cf_clear_stage2.py (RFN_s2)
 
 ## Data
-We release the cytopathology refocusing dataset at Baidu Cloud (https://pan.baidu.com/s/11VsxE8n_uX4G2Nn2jnWWwg) with and an extracting code of refo.
+We release the cytopathology refocusing dataset at Baidu Cloud (https://pan.baidu.com/s/11VsxE8n_uX4G2Nn2jnWWwg) with and an extracting code "refo".
 
 ## Pretrained Nucleus Segmentation UNet Weights
 "block380.h5" can be downloaded at the above Baidu Cloud URL
